@@ -1,2 +1,1 @@
-ewbfns
-hjgng
+print('abc')
